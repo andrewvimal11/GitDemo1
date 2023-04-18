@@ -22,5 +22,10 @@ public class NewJav {
         System.out.println("Hi2");
         System.out.println("Hi2");
 
+        System.out.println("Hi3");
+        System.out.println("Hi3");
+        System.out.println("Hi3");
+        System.out.println("Hi3");
+
     }
 }
